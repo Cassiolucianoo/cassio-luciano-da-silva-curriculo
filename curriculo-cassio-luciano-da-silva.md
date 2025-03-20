@@ -16,6 +16,10 @@ Sou desenvolvedor com mais de 5 anos de experiência, especializado em iOS utili
 
     -   Pós - Graduação em Desenvolvimento Mobile (2024 -- cursando)
 
+-   **FIAP**
+
+    -   MBA - CYBER SECURITY Governance & Management (2024 -- cursando)
+
 -   **Universidade São Judas Tadeu**
 
     -   Tecnólogo em Análise e Desenvolvimento de Sistemas (2017 -- 2020)
